@@ -33,7 +33,8 @@ int main() {
     }
     cout << endl;
     return 0;
-}/*
+}
+/*
 Output :
 Enter the number of elements in the array: 7
 Enter 7 elements: 28
